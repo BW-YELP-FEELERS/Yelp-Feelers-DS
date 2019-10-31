@@ -25,7 +25,7 @@ Pull requests are welcome. However for major changes, please open an issue first
 
 Please make sure to update tests as appropriate.
 
-Thank you ahead of time.
+Thank you ahead of time, and hope you enjoy Yelp Feelers.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
